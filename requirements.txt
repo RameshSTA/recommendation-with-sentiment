@@ -1,0 +1,10 @@
+numpy 
+pandas
+seasborn 
+transformers
+tensorflow
+pytorch 
+nltk
+sklearn 
+csv
+flask
